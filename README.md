@@ -33,11 +33,11 @@ Lớp học này được tạo ra và phát triển bởi câu lạc bộ HIT t
     - VD: void _xuat()
 ### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Tài liệu học
 - Ở đây là toàn bộ khóa học mình nhảy về từ bên DevPro (vui lòng ko phát tán linh tinh ko là ăn quá Rp đấy)
-https://drive.google.com/drive/folders/1A2za3c04z7CCIqY3BJ0J8KbMnbwnWEOi?usp=sharing
-- Link website tiếng việt khá là hữu ích, dễ học
-https://vietjack.com/java/?fbclid=IwAR1b7XlNQ9u5Bs24L368-JDe9jVDPMTxisXhXlVPnMNBI-PC5nI-f3BjfGU
+<br/>https://drive.google.com/drive/folders/1A2za3c04z7CCIqY3BJ0J8KbMnbwnWEOi?usp=sharing
+- Link website tiếng việt khá là hữu ích, dễ học)
+<br/>https://vietjack.com/java/?fbclid=IwAR1b7XlNQ9u5Bs24L368-JDe9jVDPMTxisXhXlVPnMNBI-PC5nI-f3BjfGU
 - Link website tiếng anh đầy đủ chi tiết
-https://www.w3schools.com/java/default.asp
+<br/>https://www.w3schools.com/java/default.asp
 -----------------------------------------------------------------------------------------------------------------------
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Tiêu đề`
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Các chủ đề`
