@@ -1,5 +1,5 @@
 # ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Java-HIT-2019
-Cái repos này được tạo ra và phát triển bởi câu lạc bộ HIT trực thuộc trường HaUI
+Lớp học này được tạo ra và phát triển bởi câu lạc bộ HIT trực thuộc trường HaUI
 -----------------------------------------------------------------------------------------------------------------------
 ## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Giới thiệu tổng quan
 - Khóa học được quản lí dưới sự dẫn dắt của
