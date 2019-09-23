@@ -5,8 +5,8 @@ Repository này chứa toàn bộ các tài liệu học tập, bài tập về 
 Khóa học được quản lí dưới sự dẫn dắt của
 ### Leader
 - Sơn Trần: https://www.facebook.com/profile.php?id=100004306925609
-### Support
 - Đức Linh: https://www.facebook.com/linh.nguyenduc.99
+### Support
 - Xuân Thái: https://www.facebook.com/thai99.HIT
 - Phùng Tú: https://www.facebook.com/tu.doan.5891
 - Thanh Tùng: https://www.facebook.com/sThunderSwords
