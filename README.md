@@ -5,12 +5,12 @@ Repository này chứa toàn bộ các tài liệu học tập, bài tập về 
 Khóa học được quản lí dưới sự dẫn dắt của
 ### Leader
 - Sơn Trần: https://www.facebook.com/profile.php?id=100004306925609
-- Đức Linh: https://www.facebook.com/linh.nguyenduc.99
-### Support
 - Xuân Thái: https://www.facebook.com/thai99.HIT
+### Support
 - Phùng Tú: https://www.facebook.com/tu.doan.5891
 - Thanh Tùng: https://www.facebook.com/sThunderSwords
 - Minh Hiếu: https://www.facebook.com/o0oayetao0o
+- Đức Linh: https://www.facebook.com/linh.nguyenduc.99
 
 ## Tài liệu học
 - [DevPro](https://drive.google.com/drive/folders/1A2za3c04z7CCIqY3BJ0J8KbMnbwnWEOi?usp=sharing): một khoá học java rất đầy đủ
