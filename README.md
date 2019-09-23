@@ -12,6 +12,9 @@ Khóa học được quản lí dưới sự dẫn dắt của
 - Minh Hiếu: https://www.facebook.com/o0oayetao0o
 - Đức Linh: https://www.facebook.com/linh.nguyenduc.99
 
+## Lộ trình học
+- Xem lộ trình học ở [file này](learning-schedule.md)
+
 ## Tài liệu học
 - [DevPro](https://drive.google.com/drive/folders/1A2za3c04z7CCIqY3BJ0J8KbMnbwnWEOi?usp=sharing): một khoá học java rất đầy đủ
 - [Vietjack](https://vietjack.com/java/?fbclid=IwAR1b7XlNQ9u5Bs24L368-JDe9jVDPMTxisXhXlVPnMNBI-PC5nI-f3BjfGU): website tiếng việt khá là hữu ích, dễ học
@@ -23,5 +26,5 @@ Nhằm có một lớp học thật chất lượng thì chúng mình có đặt
   - Làm đầy đủ bài tập về nhà và đúng hạn.
   - Tuân thủ coding convention (cách viết code) trong [file này](coding-standards.md)
   - Được nghỉ nhiều nhất 2 buổi trong cả khóa học, xin nghỉ phải có lí do chính đáng và phải xin phép một trong các anh quản lí.
-
+  
 ## Chúc các bạn học tập tốt <3
