@@ -1,0 +1,11 @@
+# Đặt tên biến
+- Nên đặt tên biến theo kiểu chữ đầu viết thường chữ thứ 2 viết hoa
+    - VD1: `int tuoiCuaHIT` -> sau này học `get` `set` nó sẽ trở thành `TuoiCuaHIT`
+    - VD2: `String hoVaTen` -> `get` `set` thành `HoVaTen`
+- Đối với các hàm thì có 2 cách này mà các bạn có thế áp dụng
+  - Đặt tên hàm với mỗi chữ cái đầu của mỗi từ được viết hoa
+    - VD1: `void NhapThongTin()`
+    - VD2: `void XuatThongTin()`
+  - Hoặc thêm dấu `_` vào đầu hàm để cho ngầu :3
+    - VD1: `void _nhap()`
+    - VD2: `void _xuat()`
