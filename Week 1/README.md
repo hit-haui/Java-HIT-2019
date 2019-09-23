@@ -1,2 +1,9 @@
-# Java-HIT-2019
-The repos is a java courses owned and operated by HIT club
+# Buổi 1: Comming Soon
+
+## Slide
+Comming Soon
+
+## Notes
+Comming Soon
+
+## Chúc các bạn học tập tốt <3
