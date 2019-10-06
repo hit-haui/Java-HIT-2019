@@ -4,13 +4,25 @@ Repository này chứa toàn bộ các tài liệu học tập, bài tập về 
 ## Leader và các support
 Khóa học được quản lí dưới sự dẫn dắt của
 ### Leader
-- Sơn Trần: https://www.facebook.com/profile.php?id=100004306925609
-- Xuân Thái: https://www.facebook.com/thai99.HIT
+- Sơn Trần:
+  - Link facebook: https://www.facebook.com/profile.php?id=100004306925609
+  - Tên github: Sontran1999
+- Xuân Thái:
+  - Link facebook: https://www.facebook.com/thai99.HIT
+  - Tên github: HXThai
 ### Support
-- Phùng Tú: https://www.facebook.com/tu.doan.5891
-- Thanh Tùng: https://www.facebook.com/sThunderSwords
-- Minh Hiếu: https://www.facebook.com/o0oayetao0o
-- Đức Linh: https://www.facebook.com/linh.nguyenduc.99
+- Phùng Tú:
+  - Link facebook: https://www.facebook.com/tu.doan.5891
+  - Tên github: doanphungtu
+- Thanh Tùng:
+  - Link facebook: https://www.facebook.com/sThunderSwords
+  - Tên github: ThunderSword99
+- Minh Hiếu:
+  - Link facebook: https://www.facebook.com/o0oayetao0o
+  - Tên github: ak18nvh2
+- Đức Linh:
+  - Link facebook: https://www.facebook.com/linh.nguyenduc.99
+  - Tên github: linhnd99
 
 ## Lộ trình học
 - Xem lộ trình học ở [file này](learning-schedule.md)
