@@ -14,7 +14,7 @@ Không có
 - Trong class Person
   - Tạo getter, setter cho các thuộc tính.
 - Tạo class RunMain có hàm main trong đó
-  - Tạo ra 2 đối tượng Person SonNghien và Person TuBueDe.
+  - Tạo ra 2 đối tượng Person SonNghien và Person TuBueDe (Phải import class Person vào class RunMain).
   - Dùng Setter truyền vào giá trị thông tin cho 2 đối tượng (Không phải nhập).
   - Hiển thị thông tin 2 đối tượng.
 # Bài 2 (Easy):
@@ -35,7 +35,7 @@ Dog  |
   - Phương thức ShowMP: hiển thị ra MP.
   - Phương thức Bark: sẽ in ra màn hình `Tên + sủa` (Lưu ý ko đặt tên trùng với các leader hoặc sp ko ăn án tử nhé :v), đồng thời mất 20 MP. Nếu chưa điền tên sẽ hiển thị `Xin lỗi bạn chưa điền tên`.
 - Tạo class RunMain có hàm main trong đó
-  - Tạo ra 1 đối tượng.
+  - Tạo ra 1 đối tượng (Phải import class Dog vào class RunMain).
   - Cho đối tượng thực hiện 3 lần phương thức Bark(), sau mỗi lần sử dụng sẽ gọi ra phương thức ShowMP() để kiểm tra số MP còn lại
     - VD: a.Bark() -> a.ShowMP() -> a.Bark() -> a.ShowMP() -> ....
 # Bài 3 (Normal):
@@ -84,9 +84,8 @@ Professional
 ![image](https://user-images.githubusercontent.com/52252046/67147726-8ece3780-f2c1-11e9-86a2-12754b2900ee.png)
 
 - Nhập và truyền là 2 kiểu khác nhau lưu ý để làm bài.
-- Làm hết bài tập.
 ## :gift: Bonus
-- Bạn nào làm tốt được nhận một tràng vỗ tay nồng nhiệt của cả lớp :)) 
+- Bạn nào làm tốt được nhận một chàng vỗ tay nồng nhiệt của cả lớp :)) 
 # :skull: DEADLINE
 Lớp thứ sáu  | Lớp chủ nhật
 ------------- | -------------
