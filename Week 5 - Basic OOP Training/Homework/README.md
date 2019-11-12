@@ -16,7 +16,7 @@ Professional
 ![image](https://user-images.githubusercontent.com/52252046/67147726-8ece3780-f2c1-11e9-86a2-12754b2900ee.png)
 - Làm ít nhất 3 bài
 ## :gift: Bonus
-- 3 Bạn đạt điểm cao nhất lớp mỗi người sẽ được thưởng một bát tà phớ (trị giá 5k) :))
+- 3 Bạn đạt điểm cao nhất lớp mỗi người sẽ được thưởng một bát tào phớ (trị giá 5k) :))
 # :skull: DEADLINE
 Lớp thứ sáu  | Lớp chủ nhật
 ------------- | -------------
